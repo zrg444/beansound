@@ -22,6 +22,7 @@ Bean Sound is designed to be a simple audio player that allows you to continue w
 ## KNOWN BUGS/ISSUES
 * When paused, internal timer still runs, causing progress bar to bounce to internal time after resuming song.
 * The same songs can be added multiple times, causing loooooong and unnecessary playlists.
+* Bean Sound crashes when audio buttons are clicked before songs are loaded. 
 
 ## REQUIRED EXTERNAL PROGRAMS
 * None :)
